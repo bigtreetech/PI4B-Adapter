@@ -1,0 +1,1 @@
+This is the printable files for the BTT-PI4B-Adapter shell designed by MDFPereira. The original source is [here](https://www.printables.com/es/model/269871-btt-pi4b-adapter-case)
